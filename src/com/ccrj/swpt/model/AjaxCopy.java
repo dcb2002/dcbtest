@@ -6,6 +6,7 @@ public class AjaxCopy {
     private Integer id;
 
     private String engine;
+    private String engine2;
 
     private String browser;
 
