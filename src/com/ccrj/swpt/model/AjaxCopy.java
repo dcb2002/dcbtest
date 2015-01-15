@@ -8,6 +8,7 @@ public class AjaxCopy {
     private String engine;
     private String engine2;
     private String engine3;
+    private String engine4;
 
     private String browser;
 
